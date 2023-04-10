@@ -1,7 +1,7 @@
 How to operate
 =============================
 
-Model C has two modes of operation.
+Model D has two modes of operation.
 
 Manual operation using GUI and execution of individual functions.
 
