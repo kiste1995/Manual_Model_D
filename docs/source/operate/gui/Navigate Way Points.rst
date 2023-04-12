@@ -3,7 +3,7 @@ Navigate Way Points
 
 Driving by selecting a pre-registered waypoint from the drop-down menu
 
-For illustrative purposes, the coordinates are given as name1, name2, and name3.
+For illustrative purposes, the coordinates are given as point1, point2.
 
 --------------------------------------------------------------------------------
 
