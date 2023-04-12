@@ -19,7 +19,7 @@ How to start GUI
 
 **Program initial execution screen: Required buttons are activated**
 
-.. thumbnail:: /_images/start_gui/start3.jpg
+.. thumbnail:: /_images/start_gui/start3.png
 
 -----------------------------------------------------------------------
 
