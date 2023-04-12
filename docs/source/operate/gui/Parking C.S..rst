@@ -17,7 +17,7 @@ Carrying out automatic parking to the charging station
 
 ---------------------------------------------------------------------------------------
 
-.. thumbnail:: /_images/start_gui/parking3.jpg    
+.. thumbnail:: /_images/start_gui/parking3.png    
 
 - Go to the charging station location
 
