@@ -7,11 +7,15 @@ For illustrative purposes, the coordinates are given as name1, name2, and name3.
 
 --------------------------------------------------------------------------------
 
-**Go to name3 coordinates**
+**Go to point2 coordinates**
 
 .. thumbnail:: /_images/start_gui/naviwaypoints.png
 
-- After selecting name3, press the start button and check the start phrase in the message box.
+- After selecting point2, press the start button.
+
+- The start button is disabled and the stop button is enabled.
+
+- It is displayed in the message box, and the LED color under the navi changes to blue.
 
 ------------------------------------------------------------------------------------------------------
 
@@ -23,25 +27,29 @@ For illustrative purposes, the coordinates are given as name1, name2, and name3.
 
 .. thumbnail:: /_images/start_gui/naviwaypoints3.png
 
-- When costmap is cleared, it moves to name3 coordinates.
+- When costmap is cleared, it moves to point2 coordinates.
 
 ------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------
 
-**Go to name1 coordinates**
+**Go to point1 coordinates**
 
 .. thumbnail:: /_images/start_gui/naviwaypoints4.png
 
-- After selecting name1, press the start button and check the start phrase in the message box.
+- After selecting point1, press the start button.
+
+- The start button is disabled and the stop button is enabled.
+
+- It is displayed in the message box, and the LED color under the navi changes to blue.
 
 ------------------------------------------------------------------------------------------------------
 
 .. thumbnail:: /_images/start_gui/naviwaypoints5.png
 
-- The start button is disabled and the stop button is enabled.
+- When you arrive at your destination, the start button is enabled and the stop button is disabled.
 
-- The color of the LED below the Navi will also change to blue.
+- The color of the LED below the Navi will also change to green.
 
 ------------------------------------------------------------------------------------------------------
 
