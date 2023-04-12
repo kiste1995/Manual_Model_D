@@ -14,7 +14,7 @@ Using GUI
 
 -    It is used by developers or administrators to test individual functions or perform debugging by checking logs and error codes.
 
-.. thumbnail:: /_images/start_gui/start3.jpg
+.. thumbnail:: /_images/model_d/gui.png
       :width: 500
       :height: 300
 
