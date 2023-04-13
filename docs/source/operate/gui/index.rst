@@ -21,6 +21,7 @@ Here are the contents how to use GUI
     Parking C.S.
     Air Information
     Air Purifier
+    sol
     Configuration
     Cam View
     RS View
