@@ -1,64 +1,77 @@
-Navigate Way Points
+Sol / Pump
 ==========================
 
-Driving by selecting a pre-registered waypoint from the drop-down menu
+This function is used to spray disinfectant.
 
-For illustrative purposes, the coordinates are given as point1, point2.
+Disinfectant can be sprayed only when both functions are activated.
+
+Below, the method of dispensing the disinfectant solution is explained in order.
 
 --------------------------------------------------------------------------------
 
-**Go to point2 coordinates**
+**Executing the SOL function**
 
-.. thumbnail:: /_images/start_gui/naviwaypoints.png
+.. thumbnail:: /_images/start_gui/sol.png
 
-- After selecting point2, press the start button.
+.. thumbnail:: /_images/start_gui/sol2.png    
 
-- The start button is disabled and the stop button is enabled.
+- When the SOL ON button is pressed, the sol on button is deactivated and the sol off button is activated.
 
-- It is displayed in the message box, and the LED color under the navi changes to blue.
-
-------------------------------------------------------------------------------------------------------
-
-.. thumbnail:: /_images/start_gui/naviwaypoints2.png
-
-- A command is automatically entered and executed in the terminal, and this command serves to clear the costmaps.
+- The LED below the Sol turns green.
 
 ------------------------------------------------------------------------------------------------------
 
-.. thumbnail:: /_images/start_gui/naviwaypoints3.png
+.. thumbnail:: /_images/start_gui/sol3.png
 
-- When costmap is cleared, it moves to point2 coordinates.
-
-------------------------------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------------------------------
-
-**Go to point1 coordinates**
-
-.. thumbnail:: /_images/start_gui/naviwaypoints4.png
-
-- After selecting point1, press the start button.
-
-- The start button is disabled and the stop button is enabled.
-
-- It is displayed in the message box, and the LED color under the navi changes to blue.
+- The phrase mode:Sol is printed in the terminal.
 
 ------------------------------------------------------------------------------------------------------
 
-.. thumbnail:: /_images/start_gui/naviwaypoints5.png
+**Executing the PUMP function**
 
-- When you arrive at your destination, the start button is enabled and the stop button is disabled.
+.. thumbnail:: /_images/start_gui/sol4.png
 
-- The color of the LED below the Navi will also change to green.
+.. thumbnail:: /_images/start_gui/sol5.png    
 
-------------------------------------------------------------------------------------------------------
+- When the PUMP ON button is pressed, the sol on button is deactivated and the sol off button is activated.
 
-.. thumbnail:: /_images/start_gui/naviwaypoints6.png
-
-- A command is automatically entered and executed in the terminal, and this command serves to clear the costmaps.
+- The LED below the Pump turns green.
 
 ------------------------------------------------------------------------------------------------------
 
-.. thumbnail:: /_images/start_gui/naviwaypoints7.png
+.. thumbnail:: /_images/start_gui/sol6.png
 
-- When costmap is cleared, it moves to name1 coordinates.
+- The phrase mode:Pump is printed in the terminal.
+
+- If this process is executed, disinfectant spraying will begin.
+
+------------------------------------------------------------------------------------------------------
+
+**Dispensing process**
+
+- Run the dispensing process in reverse order.
+
+.. thumbnail:: /_images/start_gui/sol7.png
+
+.. thumbnail:: /_images/start_gui/sol8.png
+
+.. thumbnail:: /_images/start_gui/sol9.png
+
+- Stop using the pump first.
+
+------------------------------------------------------------------------------------------------------
+
+.. thumbnail:: /_images/start_gui/sol10.png
+
+.. thumbnail:: /_images/start_gui/sol11.png
+
+.. thumbnail:: /_images/start_gui/sol12.png
+
+- When the use of the sol function is stopped, the whole process is finished.
+
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+
+**Start order : SOL ON => PUMP ON**
+
+**Stop order : PUMP OFF => SOL OFF**
