@@ -55,8 +55,8 @@ Automatic execution of packages for robot driving
 
 **Finish**
 
-.. thumbnail:: /_images/start_gui/autorun9.jpg
+.. thumbnail:: /_images/start_gui/autorun9.png
 
-.. thumbnail:: /_images/start_gui/autorun10.jpg  
+.. thumbnail:: /_images/start_gui/autorun10.png  
 
 - After all tasks are completed, scheduling starts at the specified time.
