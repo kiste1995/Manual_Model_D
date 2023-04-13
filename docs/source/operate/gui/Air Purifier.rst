@@ -13,6 +13,7 @@ Air purifier operation
     :width: 300
     :height: 100
 
+- Display Air-Purifier ON phrase in robot status
 - Puri Led lights green
 
 --------------------------------------------------------------------------
