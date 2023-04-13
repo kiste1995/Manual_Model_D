@@ -13,4 +13,4 @@ Run the RealSense camera viewer installed at the bottom of the front of the robo
 
 **Realsense camera view execution screen**
 
-.. thumbnail:: /_images/lecture/camera.png
+.. thumbnail:: /_images/start_gui/camera.png
