@@ -14,8 +14,8 @@ Below, the method of dispensing the disinfectant solution is explained in order.
 .. thumbnail:: /_images/start_gui/sol.png
 
 .. thumbnail:: /_images/start_gui/sol2.png
-    :width: 300
-    :height: 200    
+    :width: 200
+    :height: 100     
 
 - When the SOL ON button is pressed, the sol on button is deactivated and the sol off button is activated.
 
@@ -34,8 +34,8 @@ Below, the method of dispensing the disinfectant solution is explained in order.
 .. thumbnail:: /_images/start_gui/sol4.png
 
 .. thumbnail:: /_images/start_gui/sol5.png
-    :width: 300
-    :height: 200     
+    :width: 200
+    :height: 100      
 
 - When the PUMP ON button is pressed, the sol on button is deactivated and the sol off button is activated.
 
@@ -58,8 +58,8 @@ Below, the method of dispensing the disinfectant solution is explained in order.
 .. thumbnail:: /_images/start_gui/sol7.png
 
 .. thumbnail:: /_images/start_gui/sol8.png
-    :width: 300
-    :height: 200 
+    :width: 200
+    :height: 100 
 
 .. thumbnail:: /_images/start_gui/sol9.png
 
@@ -70,8 +70,8 @@ Below, the method of dispensing the disinfectant solution is explained in order.
 .. thumbnail:: /_images/start_gui/sol10.png
 
 .. thumbnail:: /_images/start_gui/sol11.png
-    :width: 300
-    :height: 200 
+    :width: 200
+    :height: 100  
 
 .. thumbnail:: /_images/start_gui/sol12.png
 
